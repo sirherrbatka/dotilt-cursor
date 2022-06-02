@@ -153,39 +153,39 @@ cat > progress.conf <<EOF
 24 0 0 wait4.svg24.png 50
 24 0 0 wait5.svg24.png 50
 24 0 0 wait6.svg24.png 50
+24 0 0 wait7.svg24.png 50
+24 0 0 wait8.svg24.png 50
 36 0 0 wait1.svg48.png 50
 36 0 0 wait2.svg48.png 50
 36 0 0 wait3.svg48.png 50
 36 0 0 wait4.svg48.png 50
 36 0 0 wait5.svg48.png 50
 36 0 0 wait6.svg48.png 50
+36 0 0 wait7.svg48.png 50
+36 0 0 wait8.svg48.png 50
 48 0 0 wait1.svg48.png 50
 48 0 0 wait2.svg48.png 50
 48 0 0 wait3.svg48.png 50
 48 0 0 wait4.svg48.png 50
 48 0 0 wait5.svg48.png 50
 48 0 0 wait6.svg48.png 50
+48 0 0 wait7.svg48.png 50
+48 0 0 wait8.svg48.png 50
 EOF
 
 cat > wait.conf <<EOF
-24 11 11 progress8.svg24.png 50
-24 11 11 progress7.svg24.png 50
 24 11 11 progress6.svg24.png 50
 24 11 11 progress5.svg24.png 50
 24 11 11 progress4.svg24.png 50
 24 11 11 progress3.svg24.png 50
 24 11 11 progress2.svg24.png 50
 24 11 11 progress1.svg24.png 50
-36 18 18 progress8.svg24.png 50
-36 18 18 progress7.svg24.png 50
 36 18 18 progress6.svg24.png 50
 36 18 18 progress5.svg24.png 50
 36 18 18 progress4.svg24.png 50
 36 18 18 progress3.svg24.png 50
 36 18 18 progress2.svg24.png 50
 36 18 18 progress1.svg24.png 50
-48 22 22 progress8.svg48.png 50
-48 22 22 progress7.svg48.png 50
 48 22 22 progress6.svg48.png 50
 48 22 22 progress5.svg48.png 50
 48 22 22 progress4.svg48.png 50
