@@ -5,7 +5,7 @@
    viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    sodipodi:docname="dnd-move.svg"
    inkscape:export-filename="/home/shka/test.png"
    inkscape:export-xdpi="96"
@@ -27,10 +27,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="45.254834"
-     inkscape:cx="2.3312427"
-     inkscape:cy="7.7892231"
+     inkscape:cx="12.584291"
+     inkscape:cy="12.81631"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1152"
      showgrid="true"
      units="px"
      inkscape:snap-bbox="true"
@@ -40,8 +40,8 @@
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
      inkscape:snap-grids="true"
-     inkscape:window-width="3840"
-     inkscape:window-height="2111"
+     inkscape:window-width="2560"
+     inkscape:window-height="1406"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -62,7 +62,13 @@
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid4138" />
+       id="grid4138"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -131,7 +137,7 @@
       <g
          id="g1152">
         <ellipse
-           style="fill:#f49940;fill-opacity:1;stroke-width:0;stroke-linejoin:round;stroke-opacity:0.85;paint-order:markers stroke fill"
+           style="fill:#f57900;fill-opacity:1;stroke-width:0;stroke-linejoin:round;stroke-opacity:0.85;paint-order:markers stroke fill"
            id="circle1383"
            cx="402.71661"
            cy="955.26819"
@@ -145,7 +151,7 @@
            transform="rotate(22.327549,-2576.113,512.1811)" />
         <path
            style="color:#000000;display:block;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-           d="m 4.6114503,1035.667 3.7001086,1.5196 1.3543977,-5.9301 3.7001104,1.5196 -3.204454,5.1703 3.700115,1.5196 -6.1447527,1.8006 z"
+           d="m 5.5364873,1036.0469 2.7750814,1.1397 0.9744679,-5.0051 3.7001084,1.5196 -2.659887,4.3129 2.610447,1.0721 -5.2197232,2.1805 z"
            id="path6190"
            sodipodi:nodetypes="cccccccc"
            inkscape:connector-curvature="0" />

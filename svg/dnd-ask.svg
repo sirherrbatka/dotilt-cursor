@@ -5,7 +5,7 @@
    viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    sodipodi:docname="dnd-ask.svg"
    inkscape:export-filename="/home/shka/test.png"
    inkscape:export-xdpi="96"
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254835"
-     inkscape:cx="3.966427"
-     inkscape:cy="11.391048"
+     inkscape:zoom="32.000001"
+     inkscape:cx="5.1406249"
+     inkscape:cy="13.5625"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -40,8 +40,8 @@
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
      inkscape:snap-grids="true"
-     inkscape:window-width="3840"
-     inkscape:window-height="2111"
+     inkscape:window-width="2560"
+     inkscape:window-height="1406"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -62,7 +62,13 @@
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid4138" />
+       id="grid4138"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -124,7 +130,7 @@
          sodipodi:nodetypes="ccccc" />
     </g>
     <circle
-       style="fill:#5294e2;fill-opacity:1;stroke-width:0;stroke-linejoin:round;stroke-opacity:0.85;paint-order:markers stroke fill"
+       style="fill:#f57900;fill-opacity:1;stroke-width:0;stroke-linejoin:round;stroke-opacity:0.85;paint-order:markers stroke fill"
        id="circle1383"
        cx="15.000013"
        cy="1033.3622"
