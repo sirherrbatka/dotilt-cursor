@@ -3,15 +3,14 @@
 mkdir ./png
 mkdir ./cursors
 
-find ./svg -name "*.svg" | parallel inkscape {} -o {.}24.png -h 24 -w 24
-find ./svg -name "*.svg" | parallel inkscape {} -o {.}36.png -h 36 -w 36
-find ./svg -name "*.svg" | parallel inkscape {} -o {.}48.png -h 48 -w 48
+find ./svg -name "*.svg" | parallel -j1 inkscape {} -o {.}24.png -h 24 -w 24
+find ./svg -name "*.svg" | parallel -j1 inkscape {} -o {.}36.png -h 36 -w 36
+find ./svg -name "*.svg" | parallel -j1 inkscape {} -o {.}48.png -h 48 -w 48
 
 rm ./png/*.conf
 rm ./png/*.png
 mv svg/*.png ./png
 mv svg/animations/*.png ./png
-
 
 echo "24 0 0 alias24.png 10 replace" >>  ./png/alias.conf
 echo "36 0 0 alias36.png 10 replace" >>  ./png/alias.conf
@@ -153,24 +152,18 @@ cat > progress.conf <<EOF
 24 0 0 wait424.png 50
 24 0 0 wait524.png 50
 24 0 0 wait624.png 50
-24 0 0 wait724.png 50
-24 0 0 wait824.png 50
 36 0 0 wait136.png 50
 36 0 0 wait236.png 50
 36 0 0 wait336.png 50
 36 0 0 wait436.png 50
 36 0 0 wait536.png 50
 36 0 0 wait636.png 50
-36 0 0 wait736.png 50
-36 0 0 wait836.png 50
 48 0 0 wait148.png 50
 48 0 0 wait248.png 50
 48 0 0 wait348.png 50
 48 0 0 wait448.png 50
 48 0 0 wait548.png 50
 48 0 0 wait648.png 50
-48 0 0 wait748.png 50
-48 0 0 wait848.png 50
 EOF
 
 cat > wait.conf <<EOF
