@@ -3,9 +3,9 @@
 mkdir ./png
 mkdir ./cursors
 
-find ./svg -name "*.svg" | parallel -j1 inkscape {} -o {.}24.png -h 24 -w 24
-find ./svg -name "*.svg" | parallel -j1 inkscape {} -o {.}36.png -h 36 -w 36
-find ./svg -name "*.svg" | parallel -j1 inkscape {} -o {.}48.png -h 48 -w 48
+find ./svg -name "*.svg" | parallel -j8 rsvg-convert {} -o {.}24.png -h 24 -w 24
+find ./svg -name "*.svg" | parallel -j8 rsvg-convert {} -o {.}36.png -h 36 -w 36
+find ./svg -name "*.svg" | parallel -j8 rsvg-convert {} -o {.}48.png -h 48 -w 48
 
 rm ./png/*.conf
 rm ./png/*.png
