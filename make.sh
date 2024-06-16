@@ -10,7 +10,6 @@ find ./svg -name "*.svg" | parallel -j1 inkscape {} -o {.}48.png -h 48 -w 48
 rm ./png/*.conf
 rm ./png/*.png
 mv svg/*.png ./png
-mv svg/animations/*.png ./png
 
 echo "24 0 0 alias24.png 10 replace" >>  ./png/alias.conf
 echo "36 0 0 alias36.png 10 replace" >>  ./png/alias.conf
