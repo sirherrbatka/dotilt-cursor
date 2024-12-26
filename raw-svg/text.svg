@@ -5,20 +5,80 @@
    viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="text.svg"
    inkscape:export-filename="/home/shka/test.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#0200f1;stop-opacity:0.45434549;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#0200f1;stop-opacity:1;"
+         offset="0.06610817"
+         id="stop3" />
+      <stop
+         style="stop-color:#0200f1;stop-opacity:1;"
+         offset="0.93389714"
+         id="stop8" />
+      <stop
+         style="stop-color:#0200f1;stop-opacity:0.5;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#f10000;stop-opacity:0;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#f10000;stop-opacity:0.9254902;"
+         offset="0.06610817"
+         id="stop6" />
+      <stop
+         style="stop-color:#f10000;stop-opacity:0.96078431;"
+         offset="0.93389714"
+         id="stop7" />
+      <stop
+         style="stop-color:#f10000;stop-opacity:0;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient5"
+       x1="0.71315062"
+       y1="1038.0858"
+       x2="0.71315062"
+       y2="1024.2576"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="0.71315062"
+       y1="1038.0858"
+       x2="0.71315062"
+       y2="1024.2576"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#0200f1"
@@ -26,9 +86,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="90.509668"
-     inkscape:cx="2.6903203"
-     inkscape:cy="6.3584368"
+     inkscape:zoom="45.254834"
+     inkscape:cx="0.87283493"
+     inkscape:cy="17.257825"
      inkscape:document-units="px"
      inkscape:current-layer="g6118"
      showgrid="true"
@@ -40,8 +100,8 @@
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
      inkscape:snap-grids="true"
-     inkscape:window-width="3840"
-     inkscape:window-height="2111"
+     inkscape:window-width="5120"
+     inkscape:window-height="1402"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,7 +116,12 @@
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid4138" />
+       id="grid4138"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -82,8 +147,8 @@
          transform="translate(15.999997,16.764773)" />
       <path
          id="rect292"
-         style="fill:#0200f1;fill-opacity:1;stroke:#f10000;stroke-width:2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.85000002;paint-order:markers stroke fill"
-         d="m -1.0798182,1022.4647 -0.7070312,0.707 2,1 v 14 l -2,1 0.7070312,0.707 1.7929688,-0.7929 1.7929687,0.7929 0.7070313,-0.707 -2,-1 v -14 l 2,-1 -0.7070313,-0.707 -1.7929687,0.7929 z"
+         style="fill:url(#linearGradient2);fill-opacity:1;stroke:url(#linearGradient5);stroke-width:2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.85;paint-order:markers stroke fill"
+         d="m -1.0798182,1023.4647 -0.7070312,0.707 2,1 v 12 l -2,1 0.7070312,0.707 1.7929688,-0.7929 1.7929687,0.7929 0.7070313,-0.707 -2,-1 v -12 l 2,-1 -0.7070313,-0.707 -1.7929687,0.7929 z"
          sodipodi:nodetypes="ccccccccccccccc" />
     </g>
   </g>
