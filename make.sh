@@ -14,9 +14,9 @@ mv svg/*.png ./png
 echo "24 0 0 alias24.png 10 replace" >>  ./png/alias.conf
 echo "36 0 0 alias36.png 10 replace" >>  ./png/alias.conf
 echo "48 0 0 alias48.png 10 replace" >>  ./png/alias.conf
-echo "24 8 15 all-scroll24.png 10 replace" >>  ./png/all-scroll.conf
-echo "36 12 22 all-scroll36.png 10 replace" >>  ./png/all-scroll.conf
-echo "48 16 30 all-scroll48.png 10 replace" >>  ./png/all-scroll.conf
+echo "24 12 12 all-scroll24.png 10 replace" >>  ./png/all-scroll.conf
+echo "36 13 13 all-scroll36.png 10 replace" >>  ./png/all-scroll.conf
+echo "48 24 24 all-scroll48.png 10 replace" >>  ./png/all-scroll.conf
 echo "24 12 12 cell24.png 10 replace" >>  ./png/cell.conf
 echo "36 18 18 cell36.png 10 replace" >>  ./png/cell.conf
 echo "48 24 24 cell48.png 10 replace" >>  ./png/cell.conf

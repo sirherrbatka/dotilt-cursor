@@ -5,7 +5,7 @@
    viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="text.svg"
    inkscape:export-filename="/home/shka/test.png"
    inkscape:export-xdpi="90"
@@ -65,19 +65,21 @@
        xlink:href="#linearGradient4"
        id="linearGradient5"
        x1="0.71315062"
-       y1="1038.0858"
+       y1="1037.0858"
        x2="0.71315062"
-       y2="1024.2576"
-       gradientUnits="userSpaceOnUse" />
+       y2="1024.2577"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-3.000053)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1"
        id="linearGradient2"
        x1="0.71315062"
-       y1="1038.0858"
+       y1="1037.0858"
        x2="0.71315062"
-       y2="1024.2576"
-       gradientUnits="userSpaceOnUse" />
+       y2="1024.2577"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-3.000053)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -87,8 +89,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="45.254834"
-     inkscape:cx="0.87283493"
-     inkscape:cy="17.257825"
+     inkscape:cx="5.5021746"
+     inkscape:cy="11.976621"
      inkscape:document-units="px"
      inkscape:current-layer="g6118"
      showgrid="true"
@@ -100,12 +102,12 @@
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
      inkscape:snap-grids="true"
-     inkscape:window-width="5120"
-     inkscape:window-height="1402"
+     inkscape:window-width="2009"
+     inkscape:window-height="1410"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     showguides="true"
+     inkscape:window-maximized="0"
+     showguides="false"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
      inkscape:object-nodes="true"
@@ -144,11 +146,11 @@
        transform="translate(2.7868494,-0.80945537)">
       <g
          id="g6182"
-         transform="translate(15.999997,16.764773)" />
+         transform="translate(15.999928,13.471664)" />
       <path
          id="rect292"
          style="fill:url(#linearGradient2);fill-opacity:1;stroke:url(#linearGradient5);stroke-width:2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.85;paint-order:markers stroke fill"
-         d="m -1.0798182,1023.4647 -0.7070312,0.707 2,1 v 12 l -2,1 0.7070312,0.707 1.7929688,-0.7929 1.7929687,0.7929 0.7070313,-0.707 -2,-1 v -12 l 2,-1 -0.7070313,-0.707 -1.7929687,0.7929 z"
+         d="m -1.0798182,1020.4647 -0.7070312,0.707 2,1 v 11 l -2,1 0.7070312,0.707 1.7929688,-0.7929 1.7929687,0.7929 0.7070313,-0.707 -2,-1 v -11 l 2,-1 -0.7070313,-0.707 -1.7929687,0.7929 z"
          sodipodi:nodetypes="ccccccccccccccc" />
     </g>
   </g>

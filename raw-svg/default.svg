@@ -5,7 +5,7 @@
    viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="default.svg"
    inkscape:export-filename="/home/shka/test.png"
    inkscape:export-xdpi="96"
@@ -18,7 +18,59 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs4" />
+     id="defs4">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,1.6961309,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,1.2698806,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,1.6961309,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#0200f1"
@@ -26,9 +78,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627418"
-     inkscape:cx="12.042912"
-     inkscape:cy="18.428969"
+     inkscape:zoom="11.313709"
+     inkscape:cx="46.624851"
+     inkscape:cy="6.8500966"
      inkscape:document-units="px"
      inkscape:current-layer="g1152"
      showgrid="true"
@@ -40,11 +92,11 @@
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
      inkscape:snap-grids="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1406"
+     inkscape:window-width="2416"
+     inkscape:window-height="1397"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      showguides="false"
      inkscape:snap-intersection-paths="false"
      inkscape:object-nodes="false"
@@ -97,15 +149,19 @@
       <g
          id="g1152">
         <path
-           id="path3667"
-           style="fill:none;fill-opacity:1;stroke:#f10000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.2;stroke-dasharray:none;stroke-opacity:0.85;paint-order:markers stroke fill"
-           d="m 1.9847205,1018.3724 1.6365365,22.0756 c 2.6255715,-0.8663 1.6292201,-3.0431 2.6532553,-4.039 -0.4098734,-1.0671 -0.1776871,-2.2744 0.5987576,-3.1133 1.1272473,-1.2137 3.0247907,-1.2841 4.2388861,-0.1573 0.29508,0.274 0.531962,0.6047 0.696526,0.9722 1.494711,-0.027 2.267715,2.2003 4.729324,0.9415 z"
-           sodipodi:nodetypes="cccccccc" />
+           id="path5"
+           style="fill:none;fill-opacity:1;stroke:#f10000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85000002"
+           d="m 2.1101161,1020.0639 1.5111409,20.3841 c 2.6255715,-0.8663 1.6292201,-3.0431 2.6532553,-4.039 -0.4098734,-1.0671 -0.1776871,-2.2744 0.5987576,-3.1133 1.1272473,-1.2137 3.0247907,-1.2841 4.2388861,-0.1573 0.29508,0.274 0.531962,0.6047 0.696526,0.9722 1.494711,-0.027 2.267715,2.2003 4.729324,0.9415 L 3.0998305,1019.6504 a 0.56530319,0.56530319 157.32753 0 0 -0.9897144,0.4135 z"
+           sodipodi:nodetypes="cccccccc"
+           inkscape:path-effect="#path-effect6"
+           inkscape:original-d="m 1.9847205,1018.3724 1.6365365,22.0756 c 2.6255715,-0.8663 1.6292201,-3.0431 2.6532553,-4.039 -0.4098734,-1.0671 -0.1776871,-2.2744 0.5987576,-3.1133 1.1272473,-1.2137 3.0247907,-1.2841 4.2388861,-0.1573 0.29508,0.274 0.531962,0.6047 0.696526,0.9722 1.494711,-0.027 2.267715,2.2003 4.729324,0.9415 z" />
         <path
            id="path5105"
            style="fill:#0200f1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 1.9847205,1018.3724 1.6365365,22.0756 c 2.6255715,-0.8663 1.6292201,-3.0431 2.6532553,-4.039 -0.4098734,-1.0671 -0.1776871,-2.2744 0.5987576,-3.1133 1.1272473,-1.2137 3.0247907,-1.2841 4.2388861,-0.1573 0.29508,0.274 0.531962,0.6047 0.696526,0.9722 1.494711,-0.027 2.267715,2.2003 4.729324,0.9415 z"
-           sodipodi:nodetypes="cccccccc" />
+           d="m 2.1101161,1020.0639 1.5111409,20.3841 c 2.6255715,-0.8663 1.6292201,-3.0431 2.6532553,-4.039 -0.4098734,-1.0671 -0.1776871,-2.2744 0.5987576,-3.1133 1.1272473,-1.2137 3.0247907,-1.2841 4.2388861,-0.1573 0.29508,0.274 0.531962,0.6047 0.696526,0.9722 1.494711,-0.027 2.267715,2.2003 4.729324,0.9415 L 3.0998305,1019.6504 a 0.56530319,0.56530319 157.32753 0 0 -0.9897144,0.4135 z"
+           sodipodi:nodetypes="cccccccc"
+           inkscape:path-effect="#path-effect1"
+           inkscape:original-d="m 1.9847205,1018.3724 1.6365365,22.0756 c 2.6255715,-0.8663 1.6292201,-3.0431 2.6532553,-4.039 -0.4098734,-1.0671 -0.1776871,-2.2744 0.5987576,-3.1133 1.1272473,-1.2137 3.0247907,-1.2841 4.2388861,-0.1573 0.29508,0.274 0.531962,0.6047 0.696526,0.9722 1.494711,-0.027 2.267715,2.2003 4.729324,0.9415 z" />
         <g
            id="g2819"
            transform="rotate(-23.629548,-120.13868,915.62679)"
